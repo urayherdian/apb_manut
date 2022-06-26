@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "781673121498",
+    "project_id": "apbkelompok",
+    "storage_bucket": "apbkelompok.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:781673121498:android:f3ac4ee47f2eb54d9e07e3",
+        "android_client_info": {
+          "package_name": "com.example.login4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "781673121498-d546ckghgd1ff1epg4cb9o1mmq8bmumv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC05kuHeXFpI7Hn_oZAvTPbvavn2zeDiBY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "781673121498-d546ckghgd1ff1epg4cb9o1mmq8bmumv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
